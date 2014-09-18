@@ -71,6 +71,21 @@
     <Content Include="css\normalize.css" />
     <Content Include="css\reset.css" />
     <Content Include="humans.txt" />
+    <Content Include="img\aegina.png" />
+    <Content Include="img\akropolis.png" />
+    <Content Include="img\athens.png" />
+    <Content Include="img\beachbanner1.png" />
+    <Content Include="img\beachbanner2.png" />
+    <Content Include="img\crete.png" />
+    <Content Include="img\helios.png" />
+    <Content Include="img\kos.png" />
+    <Content Include="img\mykonos.png" />
+    <Content Include="img\naxos.png" />
+    <Content Include="img\paros.png" />
+    <Content Include="img\santorini.png" />
+    <Content Include="img\serifos.png" />
+    <Content Include="img\sounion.png" />
+    <Content Include="img\zakynthos.png" />
     <Content Include="index.html" />
     <Content Include="js\foundation.min.js" />
     <Content Include="js\foundation\foundation.abide.js" />
@@ -102,9 +117,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="img\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
